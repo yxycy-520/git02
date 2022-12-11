@@ -10,6 +10,7 @@ public class test {
         System.out.println("分支操作2");
         System.out.println("主干操作");
         System.out.println("主干操作1");
+        System.out.println("dev操作");
 
     }
 }
